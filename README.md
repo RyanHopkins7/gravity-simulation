@@ -1,2 +1,2 @@
-# relativity
-Comparing a Newtonian vs Relativistic gravitational simulation with two bodies
+# Gravitaty Simulation
+Two body gravitational simulation of two massive stellar bodies in deep space with custom vector physics
